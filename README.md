@@ -1,6 +1,6 @@
 # [FastAPI & Stripe](https://blog.appseed.us/fastapi-stripe-free-ecommerce/) `Mini eCommerce`
 
-**[Open-source eCommerce Starter](https://github.com/app-generator/rocket-ecommerce)** that loads the products from `JSON` files saved in the `templates directory` (no database required) and uses a decent UI for page styling - Powered by **FastAPI & Stripe**.
+**[Open-source eCommerce Starter](https://github.com/lionking0105/rocket-ecommerce)** that loads the products from `JSON` files saved in the `templates directory` (no database required) and uses a decent UI for page styling - Powered by **FastAPI & Stripe**.
 
 <br />
 
@@ -36,7 +36,7 @@
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/ecommerce-fastapi-stripe.git
+$ git clone https://github.com/lionking0105/ecommerce-fastapi-stripe.git
 $ cd ecommerce-fastapi-stripe
 ```
 
@@ -61,7 +61,7 @@ The process is basically the usual set up for any Python app: `environment` set 
 > 👉 **Step 1** - `Download the code` from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/ecommerce-fastapi-stripe.git
+$ git clone https://github.com/lionking0105/ecommerce-fastapi-stripe.git
 $ cd ecommerce-fastapi-stripe
 ```
 
